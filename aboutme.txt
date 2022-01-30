@@ -3,4 +3,5 @@ My name is Olawale
 I am an aspiring web programmer
 I currently work with HTML5, CSS with goodworking knowledge of TailwindCSS and Bootstrap.
 I also possess an excellent knowledge of vanilla Javascipt and jQuery.
+I have built some basic websites and uploaded them to gitub and some on netlify
 
